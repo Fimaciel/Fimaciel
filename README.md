@@ -17,3 +17,4 @@
   <img height = "45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 ![Snake animation](https://github.com/Fimaciel/Fimaciel/blob/output/github-contribution-grid-snake.svg)
+
