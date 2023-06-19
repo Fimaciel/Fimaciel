@@ -1,11 +1,7 @@
 ### Hi there 👋, I'm Filipe Maciel Lopes
   Sou um entusiasta de tecnologia apaixonado por programação, principalmente back-end, e análise de sistemas. Tenho formação no curso técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Rondônia (IFRO), campus Ji-Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRO, buscando aprimorar minhas habilidades e conhecimentos nessa área em constante evolução.
 
-<div>
-<a href="https://github.com/Fimaciel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fimaciel&layout=compact&langs_count=7&theme=dracula&update=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fimaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&update=true"/>
-</div>
+
 
 ## Ferramentas e Tecnologias
 <div>
