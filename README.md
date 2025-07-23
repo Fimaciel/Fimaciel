@@ -1,8 +1,20 @@
-### Hi there 👋, I'm Filipe Maciel Lopes
+<p align="right">
+  🌍 Idioma | Language: 
+  <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷-Português-green?style=flat-square" alt="Português" /></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square" alt="English" /></a>
+</p>
 
-I'm a technology enthusiast with a passion for programming—especially back-end development—and systems analysis. I hold a technical degree in Computer Science from the Federal Institute of Education, Science and Technology of Rondônia (IFRO), Ji-Paraná campus. Currently, I'm pursuing a degree in Systems Analysis and Development at IFRO, continuously working to enhance my skills and knowledge in this ever-evolving field.
+### 👋 Olá, me chamo Filipe Maciel Lopes
 
-## Tools & Technologies
+Oi! Me chamo Filipe. Comecei minha jornada na tecnologia no IFRO, onde me formei como técnico em Informática e atualmente curso Análise e Desenvolvimento de Sistemas.
+
+Atuo há pouco mais de um ano como desenvolvedor, com foco principal em PHP (Laravel) e Python.
+
+Fora do código, sou apaixonado por esportes (assistir e praticar), fã de cultura pop — de *Harry Potter* a *Hunter x Hunter* — e gosto de videogames, séries e aprender novos idiomas. Tenho bom domínio do inglês e planejo estudar francês e italiano em breve.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 <div>
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -13,7 +25,9 @@ I'm a technology enthusiast with a passion for programming—especially back-end
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
-## Contact Me
+---
+
+## 📫 Contato
 
 <div>
   <a href="https://instagram.com/fimaciel13" target="_blank">
