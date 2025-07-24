@@ -1,5 +1,4 @@
-<p align="right">
-  🌍 Language | Idioma:  
+<p>
   <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷-Português-7A36DC?style=flat-square&logoColor=white" alt="Português" /></a>
   <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸-English-7A36DC?style=flat-square&logoColor=white" alt="English" /></a>
 </p>
@@ -34,7 +33,7 @@ Outside of coding, I’m passionate about sports (both watching and playing), a 
 
 ## 🚀 Main Technologies
 
-<div align="center">
+<div>
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -43,27 +42,25 @@ Outside of coding, I’m passionate about sports (both watching and playing), a 
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
----
+<h3> 🧰 Other Technologies and Tools </h3>
 
-## 🧰 Other Technologies and Tools
-
-<div align="center">
+<div>
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
 </div>
 
----
 
-## 📚 Currently Learning
+<h3> 📚 Currently Learning </h3>
 
-<div align="center">
+<div>
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 ---
 
-## 💼 Professional Experience
+<h3> 💼 Professional Experience </h3>
 
 <table>
   <tr>
@@ -79,8 +76,6 @@ Outside of coding, I’m passionate about sports (both watching and playing), a 
   </tr>
 </table>
 
----
-
 ## 🎓 Academic Background
 
 <table>
@@ -92,12 +87,10 @@ Outside of coding, I’m passionate about sports (both watching and playing), a 
       <strong>IFRO - Instituto Federal de Rondônia</strong> <br/>
       🎓 <em>Systems Analysis and Development</em> <br/>
       📍 Ji-Paraná, Rondônia - Brazil · On-site <br/>
-      📅 Since <strong>July 2022</strong>
+      📅 Since <strong>2022</strong>
     </td>
   </tr>
 </table>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A36DC&height=120&section=footer"/>
