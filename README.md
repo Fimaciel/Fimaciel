@@ -7,8 +7,6 @@
 <div align="center">
   <h1>Filipe Maciel Lopes</h1>
   
-  <p>Desenvolvedor Júnior apaixonado por resolver problemas com código, estudar idiomas e maratonar cultura pop.</p>
-
   <div align="center">
     <a href="https://instagram.com/fimaciel13" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-7A36DC?style=for-the-badge&logo=instagram&logoColor=white">
@@ -26,11 +24,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Comecei minha jornada na tecnologia pelo IFRO, onde me formei como técnico em Informática. Atualmente curso Análise e Desenvolvimento de Sistemas.
+Oi! Me chamo Filipe. Comecei minha jornada na tecnologia no IFRO, onde me formei como técnico em Informática e atualmente curso Análise e Desenvolvimento de Sistemas.
 
-Trabalho desde setembro de 2023 como Desenvolvedor Júnior na Eficiência Fiscal, com foco em soluções em **PHP (Laravel)** e **Python**.  
+Atuo há pouco mais de um ano como desenvolvedor, com foco principal em PHP (Laravel) e Python.
 
-Sou movido por desafios, aprendizado constante e boas histórias — sejam elas escritas em código ou contadas em animes, filmes e livros.
+Fora do código, sou apaixonado por esportes (assistir e praticar), fã de cultura pop — de Harry Potter a Hunter x Hunter — e gosto de videogames, séries e aprender novos idiomas. Tenho bom domínio do inglês e planejo estudar francês e italiano em breve.
 
 ---
 
