@@ -1,5 +1,4 @@
-<p align="right">
-  🌍 Idioma | Language:  
+<p>
   <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷-Português-7A36DC?style=flat-square&logoColor=white" alt="Português" /></a>
   <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸-English-7A36DC?style=flat-square&logoColor=white" alt="English" /></a>
 </p>
@@ -20,7 +19,6 @@
   </div>
 </div>
 
----
 
 ## 👨‍💻 Sobre mim
 
@@ -32,9 +30,9 @@ Fora do código, sou apaixonado por esportes (assistir e praticar), fã de cultu
 
 ---
 
-## 🚀 Principais Tecnologias
+<h3>  🚀 Principais Tecnologias </h3>
 
-<div align="center">
+<div>
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -43,21 +41,20 @@ Fora do código, sou apaixonado por esportes (assistir e praticar), fã de cultu
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
----
 
-## 🧰 Outras Tecnologias e Ferramentas
+<h3> 🧰 Outras Tecnologias e Ferramentas </h3>
 
-<div align="center">
+<div>
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
 </div>
 
----
 
-## 📚 Estudando Atualmente
+<h3> 📚 Estudando Atualmente </h3>
 
-<div align="center">
+<div>
   <img height="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
@@ -79,8 +76,6 @@ Fora do código, sou apaixonado por esportes (assistir e praticar), fã de cultu
   </tr>
 </table>
 
----
-
 ## 🎓 Formação Acadêmica
 
 <table>
@@ -92,12 +87,10 @@ Fora do código, sou apaixonado por esportes (assistir e praticar), fã de cultu
       <strong>IFRO - Instituto Federal de Rondônia</strong> <br/>
       🎓 <em>Análise e Desenvolvimento de Sistemas</em> <br/>
       📍 Ji-Paraná, Rondônia - Brasil · Presencial <br/>
-      📅 Desde <strong>Julho de 2022</strong>
+      📅 Desde <strong>2022</strong>
     </td>
   </tr>
 </table>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A36DC&height=120&section=footer"/>
