@@ -101,12 +101,6 @@ Sou movido por desafios, aprendizado constante e boas histórias — sejam elas 
 
 ---
 
-## 🧪 Projetos
-
-⚙️ Em breve vou incluir aqui alguns dos meus projetos pessoais e acadêmicos em destaque.
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A36DC&height=120&section=footer"/>
 </p>
