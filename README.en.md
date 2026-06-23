@@ -71,7 +71,7 @@ Outside of coding, I’m passionate about sports (both watching and playing), a 
       <strong>Eficiência Fiscal LTDA</strong> <br/>
       🧑‍💻 <em>Junior Developer</em> <br/>
       📍 Ji-Paraná, Rondônia - Brazil · On-site <br/>
-      📅 Since <strong>September 2023</strong>
+                      📅 <strong>September 2023</strong> – <strong>June 2026</strong>
     </td>
   </tr>
 </table>
