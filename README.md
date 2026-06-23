@@ -71,7 +71,7 @@ Fora do código, sou apaixonado por esportes (assistir e praticar), fã de cultu
       <strong>Eficiência Fiscal LTDA</strong> <br/>
       🧑‍💻 <em>Desenvolvedor Júnior</em> <br/>
       📍 Ji-Paraná, Rondônia - Brasil · Presencial <br/>
-      📅 Desde <strong>Setembro de 2023</strong>
+              📅 <strong>Setembro de 2023</strong> – <strong>Junho de 2026</strong>
     </td>
   </tr>
 </table>
